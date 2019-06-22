@@ -1,5 +1,5 @@
 {
-  "appId": "io.ionic.starter",
+  "appId": "com.github.devinshoemaker.ionicstarterapp",
   "appName": "Ionic Starter App",
   "bundledWebRuntime": false,
   "npmClient": "npm",
