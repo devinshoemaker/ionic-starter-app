@@ -1,8 +1,8 @@
 {
   "name": "ionic-starter-app",
   "version": "0.0.1",
-  "author": "Ionic Framework",
-  "homepage": "https://ionicframework.com/",
+  "author": "Devin Shoemaker",
+  "homepage": "https://github.com/devinshoemaker/ionic-starter-app",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
