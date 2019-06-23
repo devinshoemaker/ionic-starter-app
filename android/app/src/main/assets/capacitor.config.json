@@ -1,0 +1,7 @@
+{
+  "appId": "com.github.devinshoemaker.ionicstarterapp",
+  "appName": "Ionic Starter App",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}
